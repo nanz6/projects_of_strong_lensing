@@ -27,7 +27,7 @@ This folder contains scripts and notebooks related to analysis of **SPT0346-52**
 ---
 
 ##  Citation and Method
-The methods used here are described in detail in: (placeholder for Nan's paper)
+The methods used here are described in detail in: (https://arxiv.org/abs/2508.08393)
 
 ---
 
