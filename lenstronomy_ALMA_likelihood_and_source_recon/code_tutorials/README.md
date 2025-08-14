@@ -24,4 +24,4 @@ This notebook walks through an example of performing **pixelated source reconstr
 ---
 
 ## Reference
-This work is from *(placeholder for citation to Nan’s paper)*.
+This work is from (https://arxiv.org/abs/2508.08393).
