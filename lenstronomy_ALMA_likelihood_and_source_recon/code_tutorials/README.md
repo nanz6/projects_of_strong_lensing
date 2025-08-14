@@ -18,8 +18,7 @@ This notebook walks through an example of performing **pixelated source reconstr
 ---
 
 ## Notes
-- The ALMA fitting example and the pixelated source reconstruction are **separate pipelines**.
-- You do **not** need to read one to understand the other.
+- The ALMA fitting example and the pixelated source reconstruction are **separate pipelines**. You do **not** need to read one to understand the other.
 - Both can be used as standalone templates depending on your scientific goals.
 
 ---
