@@ -22,7 +22,7 @@ These notebooks can be used as practical templates for lens modeling projects.
 
 
 ### `science_results/`  
-This folder contains scripts and notebooks related to analysis of **SPT0346-52** and **SPT0311-58** of the paper (placeholder). These are provided as reference materials.
+This folder contains scripts and notebooks related to the lens modeling analysis of SPT galaxies. These are provided as reference materials.
 
 ---
 
