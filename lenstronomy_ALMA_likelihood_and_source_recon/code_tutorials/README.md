@@ -1,6 +1,6 @@
 # Lens Modeling Examples
 
-This folder contains two example files that demonstrate different aspects of lens modeling using `lenstronomy` introduced by the paper (placeholder). The examples focus on two distinct topics: **parametric modeling of ALMA interferometric images**, and **pixelated source reconstruction**.
+This folder contains two example files that demonstrate different aspects of lens modeling using `lenstronomy` introduced by our [paper](https://arxiv.org/abs/2508.08393). The examples focus on two distinct topics: **parametric modeling of ALMA interferometric images**, and **pixelated source reconstruction**.
 
 ---
 
