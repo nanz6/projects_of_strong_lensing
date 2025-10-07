@@ -20,5 +20,4 @@
 
 **In our code, we provide functions to generate the M matrix, U matrix, and b vector used to solve for the source image pixel values.
 More details on the notation and method can be found in [our paper](https://arxiv.org/abs/2508.08393).
-The approach to source regularization and selecting the optimal regularization strength also follows the method described in:
-https://academic.oup.com/mnras/article/371/2/983/1034076**
+The approach to source regularization and selecting the optimal regularization strength also follows the method described in [a more general reference](https://academic.oup.com/mnras/article/371/2/983/1034076)**
