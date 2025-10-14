@@ -1,6 +1,6 @@
-# ALMA Fitting and Pixelated Source Reconstruction with Lenstronomy
+# ALMA Lens Modeling and Pixelated Source Reconstruction with Lenstronomy
 
-This repository contains example notebooks and resources for performing pixelated source reconstruction and parametric modeling of ALMA interferometric images using [`lenstronomy`](https://github.com/lenstronomy/lenstronomy). The examples are designed to help users understand and apply these techniques in their own work.
+This repository contains example notebooks and resources for performing pixelated source reconstruction and parametric lens modeling of ALMA interferometric images using [`lenstronomy`](https://github.com/lenstronomy/lenstronomy). The examples are designed to help users understand and apply these techniques in their own work.
 
 ---
 
