@@ -20,6 +20,10 @@ This is the **main part of the repository** and contains well-documented example
 
 These notebooks can be used as practical templates for lens modeling projects.
 
+### `additional_tests/`  
+This folder provides notebooks and results for additional tests of the ALMA fitting pipeline that are not displayed in the paper.
+- ALMA Point Source Fitting Tests:
+  We test the ALMA image fitting in two senarios that involve point sources: unlensed point sources and quadruply imaged quasar. The result shows the likelihood function works well for point source as well.
 
 ### `science_results/`  
 This folder contains scripts and notebooks related to the lens modeling analysis of SPT galaxies. These are provided as reference materials.
