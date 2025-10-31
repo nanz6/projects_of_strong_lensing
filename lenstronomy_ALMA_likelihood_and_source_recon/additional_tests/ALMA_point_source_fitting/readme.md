@@ -10,9 +10,9 @@ Parameter explanation:
    - Lens params: Parameters of the lens profile.
    - PS source position: Position (x and y) parameters for the source modeled as a point source.
    - PS source amplitude: Amplitude for the source modeled as a point source.
- - Right:
+ - Right: (For the quadruply imaged quasar fitting, the positions of the four lensed PS images are free parameters, and some lens and source parameters are therefore derived from these positions. These parameters are listed as the "Solved nonlinear lens and source params" below.)
    - Independent nonlinear lens and source params: The independent, nonlinear parameters of the parametric lens and the Sersic source profile.
-   - Source nonlinear lens and source params: The non-independent parameters of the parametric lens and source profiles that are inferred through a nonlinear solver from the point source lensed positions.
+   - Solved nonlinear lens and source params: The non-independent parameters of the parametric lens and source profiles that are inferred through a nonlinear solver from the point source lensed positions.
    - Sersic Amplitude: The amplitude of the Sersic source profile.
    - Point source lensed positions: The lensed positions of the point source (the quasar), which are treated as free parameters during the fitting.
    - Point source amplitude: The amplitude of the point source.
