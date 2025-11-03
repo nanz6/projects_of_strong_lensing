@@ -4,11 +4,11 @@ Fitting results of fitting simulated ALMA observations with lenstronomy point so
 
 Parameter explanation: 
  - Left:
-   - Unlensed PS Positions: Position (x and y) parameters for unlensed point sources.
-   - Unlensed PS Amplitudes: Amplitude of each unlensed point source.
+   - Unlensed PS Positions: Positions (x and y) for unlensed point sources.
+   - Unlensed PS Amplitudes: Amplitudes of each unlensed point source.
  - Middle:
    - Lens params: Parameters of the lens profile.
-   - PS source position: Position (x and y) parameters for the source modeled as a point source.
+   - PS source position: Position (x and y) for the source modeled as a point source.
    - PS source amplitude: Amplitude for the source modeled as a point source.
  - Right: (For the quadruply imaged quasar fitting, the positions of the four lensed PS images are free parameters, and some lens and source parameters are therefore derived from these positions. These parameters are listed as the "Solved nonlinear lens and source params" below.)
    - Independent nonlinear lens and source params: The independent, nonlinear parameters of the parametric lens and the Sersic source profile.
