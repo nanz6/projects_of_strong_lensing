@@ -2,6 +2,8 @@
 
 This repository contains example notebooks and resources for performing pixelated source reconstruction and parametric lens modeling of ALMA interferometric images using [`lenstronomy`](https://github.com/lenstronomy/lenstronomy). The examples are designed to help users understand and apply these techniques in their own work.
 
+[![arXiv](https://img.shields.io/badge/arXiv-2508.08393-b31b1b.svg)](https://arxiv.org/abs/2508.08393)
+
 ---
 
 ## 📁 Repository Structure
